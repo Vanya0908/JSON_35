@@ -1,1 +1,12 @@
-
+{
+    "ID":1,
+    "Title":"При нажатии сcылки "обработку персональных данных" на форме "Вход или регистрация" происходит переход на главную страницу сайта",
+    "STR":"1.Открыть ссылку https://myfin.by/# 
+           2.В хедере сайта нажать "Войти"
+           3.Кликнуть ссылку "обработку персональных данных"",
+     "Expected_result":"Происходит переход на страницу "Политика конфеденциальности"",
+     "Actual_result":"Происходит переход переход на главную страницу сайта",
+     "Severity":"Critical",
+     "Priority":"High",
+     "Attachments":"https://drive.google.com/file/d/1Gk82-6CLjfu6qb3F2eCF18vIVOSZ83nH/view?usp=share_link
+                    https://drive.google.com/file/d/1u2bJlzXTihxI0nOeBuHnmUVeKuzxWUga/view?usp=share_link "
